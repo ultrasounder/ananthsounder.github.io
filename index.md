@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+I am Ananth, and I maintain this as my brain dump. I heard somewhere that if i write down what I learn, there is a better chance of retaining it. So here goes.
 
-Maybe say a some things about yourself.
 
-Or maybe what you plan to blog about.
+
