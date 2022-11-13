@@ -9,3 +9,8 @@
 
 ### which should produce this;
     ```SSdtIGtpbGxpbmcgeW91ciBicmFpbiBsaWtlIGEgcG9pc29ub3VzIG11c2hyb29t```
+
+### This will be a two step-process
+1. Decoding Hex to Raw-Bytes
+2. Converting Raw-Bytes to base64
+
