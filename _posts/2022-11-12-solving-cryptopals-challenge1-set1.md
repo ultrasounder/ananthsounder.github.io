@@ -23,6 +23,7 @@ Python standard library to the rescue. Python has the base64 library which inclu
 [Talk is cheap. Show me the code!](https://www.goodreads.com/quotes/437173-talk-is-cheap-show-me-the-code)
 
 `
+
             from base64 import b16decode, b64encode
 
             def hex_to_b64(data_hex: bytes) -> bytes:
@@ -35,4 +36,5 @@ Python standard library to the rescue. Python has the base64 library which inclu
 
                 print(f"{data_hex=}")
                 print(f"{data_b64}")
+                
     `
