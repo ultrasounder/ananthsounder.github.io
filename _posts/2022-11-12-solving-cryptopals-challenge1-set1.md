@@ -14,9 +14,13 @@
 1. Decoding Hex to Raw-Bytes
 2. Converting Raw-Bytes to base64
 
-> The problem here is that the input is standard string. It works as long as you have strings as your input. But we are using  bytes as our input. So, we need to convert our string to rawbytes.
+> 
+
+The problem here is that the input is standard string. It works as long as you have strings as your input. But we are using  bytes as our input. So, we need to convert our string to rawbytes.
 Python standard library to the rescue. Python has the base64 library which includes functions b16decode and b64encode.
+
 >
+
 1. we will use the b16decode to decode raw hex bytes to b16 format.
 2. we will then use the b64encode to encode the b16 into base64 which is what the problem wants.
 
@@ -36,5 +40,5 @@ Python standard library to the rescue. Python has the base64 library which inclu
 
                 print(f"{data_hex=}")
                 print(f"{data_b64}")
-                
+
     `
